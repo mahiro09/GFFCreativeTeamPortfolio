@@ -1,3 +1,3 @@
 # GFFCreativeTeam
+MechaActionBuilData/MechaActionをダウンロードしてMechaAction.exeをクリックすれば遊んでいただけます。
 
-工夫したこと
